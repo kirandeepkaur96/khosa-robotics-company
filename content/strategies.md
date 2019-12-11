@@ -10,6 +10,9 @@ subtitle: >-
   company when they are alone at home. Children can play games with them. Also
   this project will be costly because robot have so many costly parts.**
 background_style: style5
+menu:
+  main:
+    weight: 3
 layout: page
 ---
 
