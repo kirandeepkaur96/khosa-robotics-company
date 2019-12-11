@@ -11,6 +11,9 @@ subtitle: >-
   different to our product.  Do something unique for our customer because
   customer satisfaction is very important for doing any business.**
 background_style: style5
+menu:
+  main:
+    weight: 5
 layout: page
 ---
 
