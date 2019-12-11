@@ -8,6 +8,9 @@ subtitle: >-
   maintenance. It will do all the house work like washing, cleaning, cooking and
   other works like as human beings.**
 background_style: style5
+menu:
+  main:
+    weight: 1
 layout: page
 ---
 
